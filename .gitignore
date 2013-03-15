@@ -1,0 +1,41 @@
+# Automake specific
+Makefile.in
+Makefile
+
+# Autoconf specific
+/autom4te.cache
+/aclocal.m4
+/compile
+/configure
+/depcomp
+/install-sh
+/missing
+/config.h.in
+/config.h
+/configure.scan
+/config.status
+/stamp-h1
+
+# C specific
+*.o
+*.a
+*.la
+*.so
+*.so.*
+*.out
+.deps
+
+# Vi specific
+*~
+*.swp
+*.swo
+
+# ctags specific
+tags
+TAGS
+TAGS.include
+
+# DejaGnu specific
+site.exp
+*.sum
+

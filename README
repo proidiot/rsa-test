@@ -1,0 +1,4 @@
+test program using OpenSSL's RSA tools
+
+I copied a nice wrapper for OpenSSL's key functions from the OpenSSL examples.
+
